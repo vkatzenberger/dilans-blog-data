@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dilan's Travel Blog Data Analysis Project
 
 Welcome to the data analysis project for Dilan's Travel Blog, a fictional travel blog. This repository contains data analysis and machine learning models to understand the blog's user base and their tendencies. The project leverages various statistical and machine learning techniques to derive insights and predict future trends.
@@ -101,3 +102,6 @@ The topic column:
 The course price column:
 - 8
 - 80
+=======
+# dilans-blog-data
+>>>>>>> a75d34573f0f3036f44ee22befeba3c6ae79a080
